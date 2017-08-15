@@ -1,7 +1,8 @@
 # Cxbx-Reloaded game-compatibility project
 
 This project is intended to gather all compatibility reports for Cxbx-Reloaded.
-(Cxbx-Reloaded is an original Xbox emulator, see the sister project here on GitHub.)
+
+(Cxbx-Reloaded is an original Xbox emulator, see [the Cxbx-Reloaded project on GitHub](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded).)
 
 This project is NOT intended for issues that are emulation-related.
 Emulation-related issues must be submitted to the Cxbx-Reloaded project itself.
