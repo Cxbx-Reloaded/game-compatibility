@@ -60,6 +60,10 @@ Issue labels should show the compatibility for the latest tested build.
 |**state-unverified**|Unverified prior state, possibly regressed|
 
 
+## Description
+
+If available, start with a title-specific link to one of [Wikipedia](https://en.wikipedia.org/wiki/List_of_Xbox_games)'s List of Xbox games.
+
 ## Screenshots
 
 Adding screenshots to issues is allowed.
