@@ -21,7 +21,9 @@ Duplicate reports will be merged into one, duplicates will be closed.
 Unique game-compatibility issues are kept open forever, regardless of state.
 
 
-Issue titles MUST mention the official title name, followed by a Title ID in square brackets, nothing else.
+Issue titles MUST mention the XBE title, optionally followed by an alternative title in square brackets, followed by a mandatory Title ID in square brackets, nothing else.
+
+Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
 
 
 Use the pre-defined GitHub issue labels to indicate compatibility-attributes.
