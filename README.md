@@ -22,16 +22,18 @@ Duplicate reports will be merged into one, duplicates will be closed.
 Unique game-compatibility issues are kept open forever, regardless of state.
 
 
-## Issue title format
+## Issue titles
 
 Issue titles MUST mention the XBE title, optionally followed by an alternative title in square brackets, followed by a mandatory Title ID in square brackets, nothing else.
 
 Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
 
+Verify titles against [the Xbox-Games database](http://www.xbox-games.org/) and [this Xbox1 name lookup](https://github.com/Intline9/i360gm/blob/master/Xbox1NameLookup.csv) list.
 
-## Attribute labels
 
-Use [the pre-defined GitHub issue labels](https://github.com/Cxbx-Reloaded/game-compatibility/labels) to indicate compatibility-attributes.
+## Compatibility attribute labels
+
+Use [the pre-defined GitHub issue labels](https://github.com/Cxbx-Reloaded/game-compatibility/labels) to indicate compatibility attributes.
 
 Request new labels via a separate issue (these issues *will* be closed afterwards).
 
@@ -64,7 +66,7 @@ Issue labels should show the compatibility for the latest tested build.
 
 If available, start with a title-specific link to one of [Wikipedia](https://en.wikipedia.org/wiki/List_of_Xbox_games)'s List of Xbox games.
 
-## Screenshots
+### Screenshots
 
 Adding screenshots to issues is allowed.
 
