@@ -9,6 +9,7 @@ This project is intended to gather all compatibility reports for Cxbx-Reloaded.
 
 *(Emulation-related issues must be submitted to [the Cxbx-Reloaded project itself](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/issues).)*
 
+## Unique reports
 
 All compatibility reports must be reported [here, in this issue tracker](https://github.com/Cxbx-Reloaded/game-compatibility/issues).
 
@@ -21,22 +22,51 @@ Duplicate reports will be merged into one, duplicates will be closed.
 Unique game-compatibility issues are kept open forever, regardless of state.
 
 
+## Issue title format
+
 Issue titles MUST mention the XBE title, optionally followed by an alternative title in square brackets, followed by a mandatory Title ID in square brackets, nothing else.
 
 Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
 
 
-Use the pre-defined GitHub issue labels to indicate compatibility-attributes.
+## Attribute labels
+
+Use [the pre-defined GitHub issue labels](https://github.com/Cxbx-Reloaded/game-compatibility/labels) to indicate compatibility-attributes.
 
 Request new labels via a separate issue (these issues *will* be closed afterwards).
 
 Issue labels should show the compatibility for the latest tested build.
 
+### Label categories:
+
+* issue-, zero or more of : audio, files, input, kernel, timing, video
+* region-, zero or more of : us-canada, japan, other (sourced from dumped XBE Game Region flags 1, 2, 4)
+* state-, one of : perfect, working, playable, interactive, booting, crashes, unresponsive, unsupported or unverified (see below)
+* type-, one of : demo, homebrew, retail or sample
+* xdk-, one or more XDK versions (sourced from dumped XBE library versions)
+
+#### State labels :
+
+|State|Meaning|
+|:---|:---|
+|**state-perfect**|Functions identical to real hardware, no observable issues|
+|**state-working**|Usable with minor issues not preventing gameplay/functioning of the title|
+|**state-playable**|Partially working, but has serious issues that prevent progression/use of important features|
+|**state-interactive**|Shows menus, responds to input, but main functionality does not work|
+|**state-booting**|Shows visuals like splash screens, logos, intros, etc and/or has audible effects, but does not progress further|
+|**state-crashes**|Crashes during startup, no visual or audible output|
+|**state-unresponsive**|Hangs during startup|
+|**state-unsupported**|Title uses Linked-Time-Code-Generation, which cannot be HLE'ed, will require LLE|
+|**state-unverified**|Unverified prior state, possibly regressed|
+
+
+## Screenshots
 
 Adding screenshots to issues is allowed.
 
 Don't add more than 8 screenshots per issue (unless more are absolutely required).
 
+## On closing
 
 Don't flood reports with long discussions (all chit-chat is subject to removal).
 
