@@ -33,7 +33,7 @@ Issue labels should show the compatibility for the latest tested build.
 
 Adding screenshots to issues is allowed.
 
-Don't add most than 8 screenshots per issue (unless more are absolutely required).
+Don't add more than 8 screenshots per issue (unless more are absolutely required).
 
 
 Don't flood reports with long discussions (all chit-chat is subject to removal).
