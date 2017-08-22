@@ -53,7 +53,7 @@ Issue labels should show the compatibility for the latest tested build.
 |:---|:---|
 |**state-perfect**|Functions identical to real hardware, no observable issues|
 |**state-working**|Usable with minor issues not preventing gameplay/functioning of the title|
-|**state-playable**|Partially working, but has serious issues that prevent progression/use of important features|
+|**state-partially-working**|Partially working, but has serious issues that prevent progression/use of important features|
 |**state-interactive**|Shows menus, responds to input, but main functionality does not work|
 |**state-booting**|Shows visuals like splash screens, logos, intros, etc and/or has audible effects, but does not progress further|
 |**state-crashes**|Crashes during startup, no visual or audible output|
