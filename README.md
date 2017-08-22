@@ -44,7 +44,7 @@ Issue labels should show the compatibility for the latest tested build.
 * issue-, zero or more of : audio, files, input, kernel, timing, video
 * region-, zero or more of : us-canada, japan, other (sourced from dumped XBE Game Region flags 1, 2, 4)
 * state-, one of : perfect, working, partially-working, interactive, booting, crashes, unresponsive, unsupported or unverified (see below)
-* type-, one of : demo, homebrew, retail or sample
+* type-, one of : demo, homebrew, retail, unreleased or sample
 * xdk-, one or more XDK versions (sourced from dumped XBE library versions)
 
 #### State labels :
