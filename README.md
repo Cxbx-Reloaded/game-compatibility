@@ -11,15 +11,11 @@ This project is intended to gather all compatibility reports for Cxbx-Reloaded.
 
 ## Unique reports
 
-All compatibility reports must be reported [here, in this issue tracker](https://github.com/Cxbx-Reloaded/game-compatibility/issues).
-
-In this game-compatibility project, each title is assigned ONE issue.
-
-Do not create duplicate issues (first, search if a title already has an issue).
-
-Duplicate reports will be merged into one, duplicates will be closed.
-
-Unique game-compatibility issues are kept open forever, regardless of state.
+* All compatibility reports must be reported [here, in this issue tracker](https://github.com/Cxbx-Reloaded/game-compatibility/issues).
+* In this game-compatibility project, each title is assigned ONE issue.
+* Do not create duplicate issues (first, search if a title already has an issue).
+* Duplicate reports will be merged into one, duplicates will be closed.
+* Unique game-compatibility issues are kept open forever, regardless of state.
 
 
 ## Issue titles
