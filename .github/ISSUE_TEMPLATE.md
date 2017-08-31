@@ -1,31 +1,33 @@
-<!--
+<!-- Questions can be asked at Gitter: https://gitter.im/Cxbx-Reloaded/Lobby
+This template is meant to help create quality reports, please use it
+Here is an example issue that also shows the basics: https://github.com/BenNottelling/game-compatibility/issues/1 -->
 
-Questions can be asked at Gitter: https://gitter.im/Cxbx-Reloaded/Lobby
-
--->
 
 ### Description
+<!--Provide a simple description of what's going on below-->
 
-[Description of the issue]
 
----
 
-### Game info
-[XBE Dump, KrnlDebug, HLE Cache, Ect]
 
----
+### Dumps 
+<!--XBE Dump, KrnlDebug, HLE Cache, ETC -->
+
+
+
 
 ### Status
-**Previous behavior:** [Before regression]
+**Previous behavior:**
 
-**Current behavior:** [On the latest build]
 
----
+**Current behavior:**
 
-### Screenshots [Errors, Graphics, Glitches, ECT]
 
----
+
+
+### Screenshots <!-- Errors, Graphics, Glitches, ETC -->
+
+
 
 ### Additional Information
+<!-- Any additional information such as configuration or other comments -->
 
-Any additional information such as configuration or other comments
