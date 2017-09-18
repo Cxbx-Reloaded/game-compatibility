@@ -4,10 +4,15 @@ Here is an example issue that also shows the basics: https://github.com/BenNotte
 
 
 ### Description
-<!--Provide a simple description of what's going on below-->
+<!-- Provide a simple description of what's going on below -->
 
 
 
+<!-- If the game displays an error message: -->
+<!-- Click inside the window, press CTRL+C to copy, and paste between the apostrophes below -->
+```
+
+```
 
 ### Dumps 
 <!--XBE Dump, KrnlDebug, HLE Cache, ETC -->
@@ -16,11 +21,12 @@ Here is an example issue that also shows the basics: https://github.com/BenNotte
 
 
 ### Status
-**Previous behavior:**
+**Previous behavior:** 
+<!-- If there is no known previous behavior (e.g. you're creating the issue) just put 'None reported' -->
 
 
 **Current behavior:**
-
+<!-- Can be similar to your desciption, just shorter and more concise -->
 
 
 
@@ -29,5 +35,5 @@ Here is an example issue that also shows the basics: https://github.com/BenNotte
 
 
 ### Additional Information
-<!-- Any additional information such as configuration or other comments -->
+<!-- Any additional information such as configuration, version hash, or other comments -->
 
