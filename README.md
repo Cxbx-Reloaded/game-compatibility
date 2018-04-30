@@ -24,7 +24,7 @@ Issue titles MUST mention the XBE title, optionally followed by an alternative t
 
 Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
 
-Verify titles against [the Xbox-Games database](http://www.xbox-games.org/) and [this Xbox1 name lookup](https://github.com/Intline9/i360gm/blob/master/Xbox1NameLookup.csv) list.
+Verify titles against [the Xbox-Games database](http://www.xbox-games.org/) and [this Xbox1 name lookup](https://github.com/roman5566/i360gm/blob/master/Xbox1NameLookup.csv) list.
 
 
 ## Compatibility attribute labels
