@@ -11,20 +11,20 @@ Here is an example issue that shows the basic usage: https://github.com/BenNotte
 
 
 ### Description
-<!--- Provide a simple description of what happens during the emulation.
+<!-- Provide a simple description of what happens during the emulation. -->
 
 
-If the game displays an error message:
-Click inside the window, press CTRL+C to copy, and paste between the apostrophes below --->
+<!-- If the game displays an error message:
+Click inside the window, press CTRL+C to copy, and paste between the apostrophes below -->
 ```
 
 ```
 
 
 ### Dumps 
-<!-- XBE Dump, KrnlDebug, HLE Cache, ETC
-To generate an XBE Dump, load your XBE then go to Edit -> Dump Xbe Info To -> File... then upload the Xbe.txt here.
-To generate a KrnlDebug, go to View -> Debug Output (kernel) -> File... then begin emulation. When finished emulating, upload the KrnlDebug.txt here also. -->
+<!-- XBE Dump, KrnlDebug, HLE Cache, ETC.
+- To generate an XBE Dump, load your XBE then go to Edit -> Dump Xbe Info To -> File... then upload the Xbe.txt here.
+- To generate a KrnlDebug, go to View -> Debug Output (kernel) -> File... then begin emulation. When finished emulating, upload the KrnlDebug.txt here also. -->
 
 
 ### Status
