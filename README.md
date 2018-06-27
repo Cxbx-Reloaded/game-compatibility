@@ -22,7 +22,7 @@ This project is intended to gather all compatibility reports for Cxbx-Reloaded.
 
 Issue titles MUST mention the XBE title, optionally followed by an alternative title in square brackets, followed by a mandatory Title ID in square brackets, then lastly followed by a mandatory version number in square brackets. Nothing else.
 
-Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
+Example : [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[45410079\] \[1.01\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
 
 Verify titles against [the Xbox-Games database](http://www.xbox-games.org/) and [this Xbox1 name lookup](https://github.com/roman5566/i360gm/blob/master/Xbox1NameLookup.csv) list.
 
