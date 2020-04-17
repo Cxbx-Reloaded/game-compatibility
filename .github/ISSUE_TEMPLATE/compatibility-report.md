@@ -22,7 +22,7 @@ Click inside the window, press CTRL+C to copy, and paste between the apostrophes
 ```
 
 
-### Dumps 
+### Dumps
 <!-- XBE Dump, KrnlDebug, HLE Cache, ETC.
 - To generate an XBE Dump, load your XBE then go to Edit -> Dump Xbe Info To -> File... then upload the Xbe.txt here.
 - To generate a KrnlDebug, go to View -> Debug Output (kernel) -> File... then begin emulation. When finished emulating, upload the KrnlDebug.txt here also. -->
