@@ -34,7 +34,7 @@ Click inside the window, press CTRL+C to copy, and paste between the apostrophes
 
 
 **Current behavior:**
-<!-- Can be similar to your desciption, just shorter and more concise -->
+<!-- Can be similar to your description, just shorter and more concise -->
 
 
 ### Screenshots
