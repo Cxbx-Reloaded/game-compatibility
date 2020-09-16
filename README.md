@@ -16,7 +16,8 @@ This project is intended to gather all compatibility reports for [Cxbx-Reloaded]
 ## Issue titles
 Issue titles MUST mention the XBE title, optionally followed by an alternative title in square brackets, followed by a mandatory Title ID in square brackets, then lastly followed by a mandatory version number in square brackets. Nothing else.
 
-Example: [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[EA-121\] \[1.01\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10).
+Example: [FROM RUSSIA WITH LOVE (TM) \[007: From Russia with Love\] \[EA-121\] \[1.01\]](https://github.com/Cxbx-Reloaded/game-compatibility/issues/10)
+  * *Note:* [Some software has a different title ID](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/blob/ed57ca978803cfc722260fe4c2d611361d640f7e/src/core/kernel/support/Emu.cpp#L71-L77)
 
 Verify titles against [this spreadsheet](https://docs.google.com/spreadsheets/d/1e33LTPD6TCuLqszv6orQzzlkHRFuSnIlk-OQWn5M2y8/edit#gid=347627117).
 
